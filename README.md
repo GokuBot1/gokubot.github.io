@@ -2,7 +2,7 @@
 <html>
 
 
-
+<title>Goku Bot</title>
   <head>
     <!-- Important Fancy navbarstyle :) -->
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
@@ -15,8 +15,7 @@
     <nav class="navbar">
       <ul>
         <li><a href="/index">Home</a></li>
-        <li><a href="
- https://discordapp.com/oauth2/authorize?client_id=428245608445378570&scope=bot&permissions=2146958591"sse Goku</a></li>
+        <li><a href="https://discordapp.com/oauth2/authorize?client_id=428245608445378570&scope=bot&permissions=2146958591">Invite Goku</a></li>
         <li><a href="https://discord.gg/25YXq84">Discord Server</a></li>
 
       </ul>
